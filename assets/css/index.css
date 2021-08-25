@@ -1,0 +1,52 @@
+.full{
+  display: flex;
+  flex-direction:column ;
+    text-align: center;
+    background-color:black;
+    margin-top: 100px;
+  }
+
+  #nameholder{
+    background-color: transparent;
+    border:1px solid grey;
+    padding:8px 75px 8px 12px; 
+    border-radius: 5px;
+  }
+
+  #btn{
+    padding:10px 105px 10px 105px;
+    background-color:#008cff;
+    font-size: 15px;
+    border-radius: 50px;
+    border: none;
+    color: white;
+  }
+
+  #fgtpswd{
+    background-color: transparent;
+    border: none;
+    color:#008cff; 
+    font-size: small;
+  }
+
+  #signup{
+  background-color: transparent;
+  border: none;
+  color:#008cff;
+  margin-left:5px;
+  font-size: small;
+}
+
+  body{
+    background-color: black;
+  }
+
+  .logo{
+    color:white;
+    font-size: x-large;
+    
+  }
+
+  h2{
+    color:white;
+  }
